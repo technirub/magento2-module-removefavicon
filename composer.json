@@ -3,7 +3,7 @@
     "description": "The Remove Favicon module removes all favicons from the HTML head.",
     "require": {
         "php": ">=7.1",
-        "magento/framework": "102.0.*"
+        "magento/framework": ">=102"
     },
     "type": "magento2-module",
     "version": "1.0.1",
